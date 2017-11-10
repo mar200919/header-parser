@@ -1,17 +1,12 @@
-# Author
-![@mar200919](https://avatars3.githubusercontent.com/u/11713907?s=400&u=febc6a6371f8aeeefa9fa014944af0f15f890321&v=4)
+# RequestHeaderParser
 
-Created by mar200919
+This repository is for the Free Code Camp Back End API [Request Header Parser Microservice](https://www.freecodecamp.com/challenges/request-header-parser-microservice) project. 
 
-[Github](https://github.com/mar200919) | [FreeCodeCamp](https://www.freecodecamp.org/mar200919) | [CodePen](https://codepen.io/mar200919)
+It expose one endpoint `/api/v1/whoami` to retrieve information from the HTTP headers sent.
 
-# FreeCodeCamp API Basejump: Request Header Parser Microservice
+The endpoint returns the following information:
+* Your IP Address
+* Your locale
+* The software you are using
 
-## User stories:
-1. I can get the IP address, language and operating system for my browser.
-
-## Example usage:
-
-```js
-{"ipaddress":"xxx.xxx.xxx.xxx","language":"en-US","software":"X11; Linux x86_64"}
-```
+You can find the application hosted on Heroku [here](https://rj93-request-header-parser.herokuapp.com/).
