@@ -1,9 +1,9 @@
 # Author
-![@Rafase282](https://avatars0.githubusercontent.com/Rafase282?&s=128)
+![@mar200919](https://avatars3.githubusercontent.com/u/11713907?s=400&u=febc6a6371f8aeeefa9fa014944af0f15f890321&v=4)
 
-Created by Rafase282
+Created by mar200919
 
-[Github](https://github.com/Rafase282) | [FreeCodeCamp](http://www.freecodecamp.com/rafase282) | [CodePen](http://codepen.io/Rafase282/) | [LinkedIn](https://www.linkedin.com/in/rafase282) | [Blog/Site](https://rafase282.wordpress.com/) | [E-Mail](mailto:rafase282@gmail.com)
+[Github](https://github.com/mar200919) | [FreeCodeCamp](https://www.freecodecamp.org/mar200919) | [CodePen](https://codepen.io/mar200919)
 
 # FreeCodeCamp API Basejump: Request Header Parser Microservice
 
